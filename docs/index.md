@@ -3,6 +3,8 @@ title: "R Learning Modules (UCLA)"
 layout: "home"
 description: ""
 permalink: "/"  #! Remove this if not the homepage
+student_staff:  
+   - name: Marie Tossios
 ---
 
 # R Learning Modules (UCLA)
