@@ -17,4 +17,3 @@ Link:
 
 <http://stats.idre.ucla.edu.myaccess.library.utoronto.ca/r/>
 
-Tools: [R](/tools/r-0)**Date Created:** 2017\-05\-05**Updated:** 2021\-09\-02
