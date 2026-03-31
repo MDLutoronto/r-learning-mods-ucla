@@ -1,10 +1,13 @@
 ---
 title: "R Learning Modules (UCLA)"
 layout: "home"
-description: ""
+description: "Comprehensive set of guides that include installing R, learning R fundamentals including graphics and advanced data analysis examples. Link: http://stats.idre.ucla.edu.myaccess.library.utoronto.ca/r/"
 permalink: "/"  #! Remove this if not the homepage
+maintainer:
+ - name: Nadia Muhe
+   link: https://library.utoronto.ca/staff/nadia-muhe
+created_date: 2017-05-05
 ---
-
 # R Learning Modules (UCLA)
 
  
@@ -13,6 +16,5 @@ Comprehensive set of guides that include installing R, learning R fundamentals i
 
 Link:
 
-<http://stats.idre.ucla.edu.myaccess.library.utoronto.ca/r/>
+<https://stats.oarc.ucla.edu/r/>
 
-Tools: [R](/tools/r-0)**Date Created:** 2017\-05\-05**Updated:** 2021\-09\-02
