@@ -18,3 +18,5 @@ Link:
 
 <https://stats.oarc.ucla.edu/r/>
 
+**Tools:** [R](https://mdlutoronto.github.io/tutorials-search/?tool=R)
+
